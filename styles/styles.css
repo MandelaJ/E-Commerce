@@ -254,3 +254,12 @@ html {
   font-family: "Young Serif";
   src: url("../fonts/youngserif/YoungSerif-Regular.otf");
 }
+html {
+  font-size: 125%;
+}
+
+body {
+  font-family: "Jakarta Sans";
+  color: #084b6d;
+  font-size: 1rem;
+}
